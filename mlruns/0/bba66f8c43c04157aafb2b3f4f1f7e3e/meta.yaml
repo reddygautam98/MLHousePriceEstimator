@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/bba66f8c43c04157aafb2b3f4f1f7e3e/artifacts
+end_time: 1730708053007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bba66f8c43c04157aafb2b3f4f1f7e3e
+run_name: smiling-mule-11
+run_uuid: bba66f8c43c04157aafb2b3f4f1f7e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730708049739
+status: 3
+tags: []
+user_id: reddy

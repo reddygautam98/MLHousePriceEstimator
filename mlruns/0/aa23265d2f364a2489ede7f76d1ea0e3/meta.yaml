@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/aa23265d2f364a2489ede7f76d1ea0e3/artifacts
+end_time: 1730706254513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa23265d2f364a2489ede7f76d1ea0e3
+run_name: abrasive-sheep-484
+run_uuid: aa23265d2f364a2489ede7f76d1ea0e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730706249582
+status: 3
+tags: []
+user_id: reddy

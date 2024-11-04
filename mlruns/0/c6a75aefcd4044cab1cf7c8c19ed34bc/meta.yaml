@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/c6a75aefcd4044cab1cf7c8c19ed34bc/artifacts
+end_time: 1730709269090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6a75aefcd4044cab1cf7c8c19ed34bc
+run_name: efficient-chimp-965
+run_uuid: c6a75aefcd4044cab1cf7c8c19ed34bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730709266902
+status: 3
+tags: []
+user_id: reddy

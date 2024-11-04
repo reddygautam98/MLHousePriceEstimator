@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/92e48007693349d9803ec893d4b3ea6e/artifacts
+end_time: 1730714245994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92e48007693349d9803ec893d4b3ea6e
+run_name: popular-mouse-327
+run_uuid: 92e48007693349d9803ec893d4b3ea6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730714240105
+status: 3
+tags: []
+user_id: reddy

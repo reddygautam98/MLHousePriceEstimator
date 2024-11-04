@@ -1,0 +1,9 @@
+Flask==2.x.x 
+scikit-learn==1.x.x 
+pandas==1.x.x 
+numpy==1.x.x 
+joblib==1.x.x 
+mlflow==2.x.x 
+requests==2.x.x 
+requests==2.x.x 
+pyyaml 

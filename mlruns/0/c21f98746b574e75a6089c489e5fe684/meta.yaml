@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/c21f98746b574e75a6089c489e5fe684/artifacts
+end_time: 1730660650259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c21f98746b574e75a6089c489e5fe684
+run_name: puzzled-shad-704
+run_uuid: c21f98746b574e75a6089c489e5fe684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730660644571
+status: 3
+tags: []
+user_id: reddy

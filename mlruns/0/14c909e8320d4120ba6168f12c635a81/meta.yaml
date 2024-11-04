@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/14c909e8320d4120ba6168f12c635a81/artifacts
+end_time: 1730716953626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14c909e8320d4120ba6168f12c635a81
+run_name: righteous-crane-422
+run_uuid: 14c909e8320d4120ba6168f12c635a81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730716948211
+status: 3
+tags: []
+user_id: reddy

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/26c6c37f5d714987b7a6f290ee979f2f/artifacts
+end_time: 1730706259979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26c6c37f5d714987b7a6f290ee979f2f
+run_name: orderly-gull-294
+run_uuid: 26c6c37f5d714987b7a6f290ee979f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730706256909
+status: 3
+tags: []
+user_id: reddy

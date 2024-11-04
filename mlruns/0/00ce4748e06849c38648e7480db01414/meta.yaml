@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/00ce4748e06849c38648e7480db01414/artifacts
+end_time: 1730708680556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00ce4748e06849c38648e7480db01414
+run_name: charming-ant-195
+run_uuid: 00ce4748e06849c38648e7480db01414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730708678239
+status: 3
+tags: []
+user_id: reddy

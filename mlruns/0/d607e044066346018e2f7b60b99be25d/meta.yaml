@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/d607e044066346018e2f7b60b99be25d/artifacts
+end_time: 1730714251286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d607e044066346018e2f7b60b99be25d
+run_name: carefree-cub-405
+run_uuid: d607e044066346018e2f7b60b99be25d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730714248188
+status: 3
+tags: []
+user_id: reddy

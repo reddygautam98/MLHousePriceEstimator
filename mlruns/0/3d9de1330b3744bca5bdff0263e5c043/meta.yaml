@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/3d9de1330b3744bca5bdff0263e5c043/artifacts
+end_time: 1730718419509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d9de1330b3744bca5bdff0263e5c043
+run_name: receptive-sow-652
+run_uuid: 3d9de1330b3744bca5bdff0263e5c043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730718413814
+status: 3
+tags: []
+user_id: reddy

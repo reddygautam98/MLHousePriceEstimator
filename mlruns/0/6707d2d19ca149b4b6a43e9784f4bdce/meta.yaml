@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/6707d2d19ca149b4b6a43e9784f4bdce/artifacts
+end_time: 1730709165104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6707d2d19ca149b4b6a43e9784f4bdce
+run_name: youthful-pig-463
+run_uuid: 6707d2d19ca149b4b6a43e9784f4bdce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730709162973
+status: 3
+tags: []
+user_id: reddy

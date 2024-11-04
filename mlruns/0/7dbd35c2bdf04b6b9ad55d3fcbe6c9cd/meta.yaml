@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/7dbd35c2bdf04b6b9ad55d3fcbe6c9cd/artifacts
+end_time: 1730660228234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dbd35c2bdf04b6b9ad55d3fcbe6c9cd
+run_name: kindly-snipe-594
+run_uuid: 7dbd35c2bdf04b6b9ad55d3fcbe6c9cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730660225542
+status: 3
+tags: []
+user_id: reddy

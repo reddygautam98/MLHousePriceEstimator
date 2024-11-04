@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/reddy/Downloads/price.py/mlruns/0/6d71c9b3da77400b8d6d456525e4fb3d/artifacts
+end_time: 1730716776464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d71c9b3da77400b8d6d456525e4fb3d
+run_name: zealous-robin-173
+run_uuid: 6d71c9b3da77400b8d6d456525e4fb3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730716773383
+status: 3
+tags: []
+user_id: reddy
